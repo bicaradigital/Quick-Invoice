@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Allow secure sharing of PDFs stored in the application's internal cache area -->
+    <cache-path name="pdf_invoices" path="pdf_invoices/" />
+</paths>

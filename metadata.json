@@ -1,0 +1,6 @@
+{
+  "name": "BillEase",
+  "description": "Generator Invoice modern, aman, dan profesional untuk semua skala bisnis dilengkapi unduh PDF, kirim email, logo kustom, dan pembayaran instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
